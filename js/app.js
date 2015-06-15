@@ -1,1 +1,4 @@
-var str ="";
+var app = {
+  
+  var str ="";
+}
